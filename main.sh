@@ -1,5 +1,5 @@
 rm -rf App 
-git clone https://github.com/jartool/OD App
+git clone https://github.com/jartool/onedrive-vercel-index App
 
 #第一次运行完成后请注释掉以上指令！！！
 
